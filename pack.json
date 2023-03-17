@@ -1,0 +1,11 @@
+{
+  "name": "mono_repo",
+  "version": "0.0.1",
+  "scripts": {},
+  "dependencies": {},
+  "environment": {
+    "lang": "python",
+    "env_manager": "venv",
+    "lang_version": ">=3.9"
+  }
+}

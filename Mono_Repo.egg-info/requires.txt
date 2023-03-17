@@ -1,0 +1,4 @@
+click
+cookiecutter
+Tools@ file://localhost/home/vindao/Documents/Code/Repo/Python/Tools#egg=Tools
+CLI@ file://localhost/home/vindao/Documents/Code/Repo/Python/CLI#egg=CLI

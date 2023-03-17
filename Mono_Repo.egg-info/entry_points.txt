@@ -1,0 +1,4 @@
+[console_scripts]
+pack = Mono_Repo.Pack:pack
+repo = Mono_Repo.main:repo
+
